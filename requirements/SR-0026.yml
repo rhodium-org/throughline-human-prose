@@ -1,0 +1,11 @@
+uid: SR-0026
+type: system_requirement
+status: approved
+title: "Do not add a restating summary paragraph"
+text: "Do not close a section or piece with \"In summary\", \"In conclusion\" or \"Overall\" followed by a recap of what was just said. If a point is worth making, make it once, in place."
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Artifacts and framing"
+  principle: UR-0007

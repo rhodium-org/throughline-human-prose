@@ -1,0 +1,8 @@
+uid: INT-0001
+type: intent
+status: approved
+title: "Prose reads as human-written, not machine-generated"
+text: "Large language models regress to the mean; their output carries a recognisable statistical fingerprint — inflated significance, vague authority, formulaic parallelisms, a narrow flagged vocabulary, mechanical emphasis, leftover assistant framing and unverifiable citations. This axis governs the removal of that fingerprint: it names each observed tell and states the plain human alternative. It is the neutral or opposite form of the patterns catalogued in Wikipedia's \"Signs of AI writing\" advice page. It deliberately reinforces neighbouring axes (readability, register, spelling conventions) but from a distinct intent — two texts equally clear, neutral and correctly spelled can still differ in whether they read as generated, and that difference is what this axis owns."
+normative: false
+attrs:
+  source_ref: "TBS Human prose"

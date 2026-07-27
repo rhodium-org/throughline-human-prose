@@ -1,0 +1,11 @@
+uid: SR-0002
+type: system_requirement
+status: approved
+title: "Do not assert broader significance the sources do not claim"
+text: "Do not add sentences about how the subject marks a turning point, leaves a lasting legacy, or contributes to a wider trend, and do not situate it amid unnamed \"broader debates\", unless a cited source says so. Avoid \"stands as a testament to\", \"marking a pivotal moment\", \"reflects broader\"."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Significance and puffery"
+  principle: UR-0001

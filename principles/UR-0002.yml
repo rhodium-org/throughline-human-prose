@@ -1,0 +1,10 @@
+uid: UR-0002
+type: user_requirement
+status: approved
+title: "Attribute claims to named sources, not vague authorities"
+text: "Attribute every opinion or contested claim to a specific, named source, and do not overstate how many sources hold a view or editorialise about a subject's notability or coverage."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Human prose — Attribution"

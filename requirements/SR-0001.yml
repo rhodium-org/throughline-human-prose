@@ -1,0 +1,11 @@
+uid: SR-0001
+type: system_requirement
+status: approved
+title: "Give the specific fact, not a generic important-sounding summary"
+text: "Where a concrete, particular fact is available, state it. Do not replace \"invented the first automatic train-coupling device\" with \"a revolutionary titan of industry\"; specificity is what makes writing read as human."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Significance and puffery"
+  principle: UR-0001

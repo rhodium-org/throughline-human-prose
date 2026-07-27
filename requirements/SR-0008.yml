@@ -1,0 +1,11 @@
+uid: SR-0008
+type: system_requirement
+status: approved
+title: "Do not tack a significance clause onto the end of a sentence"
+text: "Avoid the trailing present-participle flourish that gestures at meaning without adding any — \"..., highlighting its importance\", \"..., reflecting broader trends\", \"..., ensuring lasting impact\". End the sentence at the fact it actually reports."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Analytical filler"
+  principle: UR-0003

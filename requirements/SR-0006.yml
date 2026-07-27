@@ -1,0 +1,11 @@
+uid: SR-0006
+type: system_requirement
+status: approved
+title: "Do not overstate how widely a view is held"
+text: "Present one source as one source. Do not describe a view drawn from one or two citations as held by \"many scholars\" or \"several reviewers\", and do not imply a list of examples is non-exhaustive when the sources give no such indication."
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Attribution"
+  principle: UR-0002

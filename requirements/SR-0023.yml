@@ -1,0 +1,11 @@
+uid: SR-0023
+type: system_requirement
+status: approved
+title: "Include no knowledge-cutoff or availability disclaimers, and do not speculate to fill gaps"
+text: "Do not write \"as of my last update\", \"specific details are not widely documented\", \"based on available information\", or that a person \"maintains a low profile\". Omit what you cannot verify rather than hedging around it or inventing plausible filler."
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Artifacts and framing"
+  principle: UR-0007

@@ -1,0 +1,11 @@
+uid: SR-0021
+type: system_requirement
+status: approved
+title: "Do not build a table where prose would do"
+text: "Present a couple of related facts as a sentence or, where structured, an infobox — not as a small standalone table. Reserve tables for data with enough rows and columns to warrant the structure."
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Emphasis and formatting"
+  principle: UR-0006

@@ -1,0 +1,10 @@
+uid: UR-0006
+type: user_requirement
+status: approved
+title: "Emphasise and format with restraint"
+text: "Avoid the mechanical formatting habits of chatbot output — Title Case headings, pervasive boldface, everything-as-a-bullet-list, dense em dashes and decorative emoji — and reserve emphasis and structure for where the content genuinely needs it."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Human prose — Emphasis and formatting"

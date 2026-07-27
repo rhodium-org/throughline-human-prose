@@ -1,0 +1,10 @@
+uid: UR-0003
+type: user_requirement
+status: approved
+title: "Let analysis come from substance, not tacked-on filler"
+text: "Do not append hollow analytical flourishes that assert importance, impact or connection without saying, concretely and from a source, what they are."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Human prose — Analytical filler"

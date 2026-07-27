@@ -1,0 +1,11 @@
+uid: SR-0009
+type: system_requirement
+status: approved
+title: "Do not claim significance without saying what it is"
+text: "If something is significant, valuable or influential, state concretely — and from a source — how. Drop bare assertions of impact that carry no verifiable content of their own."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Analytical filler"
+  principle: UR-0003

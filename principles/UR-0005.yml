@@ -1,0 +1,10 @@
+uid: UR-0005
+type: user_requirement
+status: approved
+title: "Use plain, direct verbs and ordinary vocabulary"
+text: "Prefer the simple copula and the ordinary word to the flagged register of generated prose — its avoidance of \"is\" and \"has\", and its recurring vocabulary of delve, tapestry, testament, underscore, pivotal, robust and the like."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Human prose — Vocabulary and verbs"

@@ -1,0 +1,17 @@
+throughline-human-prose
+Copyright 2026 Henry J Grech-Cini
+
+This product includes work developed by Dr Henry J Grech-Cini.
+
+Licensed under the Apache License, Version 2.0. See the LICENSE file for the
+full terms.
+
+This repository is a throughline *source*: a requirements graph, not a program. Its
+items are Dr Henry J Grech-Cini's own house guidance for writing prose that does not
+read as machine generated, expressed as a grounded IDD graph so consuming projects can
+compose it with throughline-compose.
+
+The catalogue of "tells" the rules invert is observed from Wikipedia's advice page
+"Signs of AI writing" (WikiProject AI Cleanup), available under CC BY-SA. That page is
+cited as the source of the observations only; none of its text is reproduced here. The
+rule wording is original.

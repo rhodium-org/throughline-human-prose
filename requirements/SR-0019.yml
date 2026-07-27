@@ -1,0 +1,11 @@
+uid: SR-0019
+type: system_requirement
+status: approved
+title: "Use dashes at ordinary density"
+text: "Do not pepper the text with em dashes in place of commas, colons and parentheses. Where a comma or a full stop is natural, use it. Occasional em dashes are fine; a formulaic dash in every other sentence is a tell."
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Emphasis and formatting"
+  principle: UR-0006

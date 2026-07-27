@@ -1,0 +1,11 @@
+uid: SR-0014
+type: system_requirement
+status: approved
+title: "Avoid the flagged AI-vocabulary register"
+text: "Choose the ordinary word over the recurring generated-text vocabulary: delve, tapestry, testament, underscore, pivotal, robust, showcase, foster, garner, meticulous, intricate, enduring, vibrant, and \"landscape\" or \"tapestry\" as abstract nouns. One such word may be coincidence; a cluster of them is a fingerprint."
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Vocabulary and verbs"
+  principle: UR-0005

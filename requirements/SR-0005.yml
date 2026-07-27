@@ -1,0 +1,11 @@
+uid: SR-0005
+type: system_requirement
+status: approved
+title: "Name the source of an opinion; avoid vague authorities"
+text: "Attribute any opinion or contested claim to a specific, named person or publication. Do not write \"experts argue\", \"observers have noted\", \"industry reports suggest\" or \"some critics say\" in place of an actual source."
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Attribution"
+  principle: UR-0002

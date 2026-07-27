@@ -1,0 +1,11 @@
+uid: SR-0004
+type: system_requirement
+status: approved
+title: "Do not end with a formulaic challenges-and-future-prospects passage"
+text: "Avoid the rigid closing formula \"Despite its [strengths], [subject] faces challenges...\" followed by a vaguely positive outlook or speculation about future initiatives. Genuine, sourced difficulties belong in the body, described specifically; the outline formula does not."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Significance and puffery"
+  principle: UR-0001

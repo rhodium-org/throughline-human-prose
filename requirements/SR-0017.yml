@@ -1,0 +1,11 @@
+uid: SR-0017
+type: system_requirement
+status: approved
+title: "Use boldface sparingly, for genuine emphasis only"
+text: "Do not bold every key term, nor set phrases in bold mechanically as \"key takeaways\". Emphasis that falls on everything emphasises nothing, and pervasive bolding is a recognisable generated-text pattern."
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Emphasis and formatting"
+  principle: UR-0006

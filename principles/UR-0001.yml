@@ -1,0 +1,10 @@
+uid: UR-0001
+type: user_requirement
+status: approved
+title: "Keep specific facts specific; do not inflate significance"
+text: "State the concrete, particular fact rather than a generic, important-sounding summary; do not add claims about the subject's significance, legacy or place in a broader trend that the sources do not make."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Human prose — Significance and puffery"

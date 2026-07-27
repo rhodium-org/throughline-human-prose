@@ -1,0 +1,11 @@
+uid: SR-0015
+type: system_requirement
+status: approved
+title: "Prefer the plain verb to its stiff synonym"
+text: "Use wrote, not authored; used, not utilised; moved, not relocated; tried, not attempted; died, not passed away. Human writing reaches for the simple word by default."
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Vocabulary and verbs"
+  principle: UR-0005

@@ -1,0 +1,11 @@
+uid: SR-0025
+type: system_requirement
+status: approved
+title: "Fill in or delete every placeholder"
+text: "Ship no fill-in-the-blank templates or unresolved fields — \"[insert organisation]\", \"add if available with citation\", an access-date of \"2025-xx-xx\". Either supply the real value or remove the sentence."
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Artifacts and framing"
+  principle: UR-0007

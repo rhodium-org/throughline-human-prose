@@ -1,0 +1,11 @@
+uid: SR-0003
+type: system_requirement
+status: approved
+title: "Describe plainly; avoid promotional and travel-guide language"
+text: "Do not reach for the peacock register — \"boasts\", \"vibrant\", \"rich\", \"nestled\", \"in the heart of\", \"renowned\", \"groundbreaking\", \"a diverse array of\". State what a thing is and does in neutral terms."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Significance and puffery"
+  principle: UR-0001

@@ -1,0 +1,11 @@
+uid: SR-0012
+type: system_requirement
+status: approved
+title: "Repeat the right word rather than varying it for its own sake"
+text: "Do not substitute synonyms merely to avoid using the same word twice (elegant variation). If a term is the correct and clear one, repeat it; forced variation reads as generated and can blur meaning."
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Sentence patterns"
+  principle: UR-0004

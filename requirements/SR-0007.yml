@@ -1,0 +1,11 @@
+uid: SR-0007
+type: system_requirement
+status: approved
+title: "State facts, not the case for the subject's notability"
+text: "Do not argue for importance by cataloguing coverage — \"received independent coverage\", \"was profiled in regional media\", \"maintains an active social media presence\". Report what happened and cite it inline; let the facts stand without a running commentary on how notable they prove the subject to be."
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Attribution"
+  principle: UR-0002

@@ -1,0 +1,11 @@
+uid: SR-0011
+type: system_requirement
+status: approved
+title: "Do not force ideas into threes"
+text: "Avoid the reflexive rule of three — three adjectives, three parallel phrases, three-item lists — used to make a point sound complete. Give the number of items the content actually has, whether that is one, two or five."
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Sentence patterns"
+  principle: UR-0004

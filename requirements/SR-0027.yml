@@ -1,0 +1,11 @@
+uid: SR-0027
+type: system_requirement
+status: approved
+title: "Drop didactic \"it is important to note\" disclaimers"
+text: "State the point directly instead of prefacing it with \"it is important to note\", \"it is worth noting\", \"it is crucial to remember\" or \"keep in mind that\". These framings add nothing and are characteristic of earlier generated text."
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Artifacts and framing"
+  principle: UR-0007

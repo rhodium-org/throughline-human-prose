@@ -1,0 +1,11 @@
+uid: SR-0022
+type: system_requirement
+status: approved
+title: "Remove assistant-to-user framing"
+text: "The finished text addresses its reader, never a chatbot's operator. Strip openings and asides such as \"Certainly!\", \"Of course!\", \"I hope this helps\", \"Would you like me to...\", \"Here is a...\" and \"let me know if\"."
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Artifacts and framing"
+  principle: UR-0007

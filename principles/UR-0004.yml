@@ -1,0 +1,10 @@
+uid: UR-0004
+type: user_requirement
+status: approved
+title: "Vary sentence structure; avoid formulaic patterns"
+text: "Avoid the repeated structural mannerisms of generated text — corrective negative parallelisms, the rule of three, and needless synonym variation — and let the number and shape of clauses follow the content."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Human prose — Sentence patterns"

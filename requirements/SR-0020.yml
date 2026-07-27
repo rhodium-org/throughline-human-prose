@@ -1,0 +1,11 @@
+uid: SR-0020
+type: system_requirement
+status: approved
+title: "Do not use emoji as bullets or heading decoration"
+text: "Do not place emoji in front of headings or list items, or use them as list markers. Decorative emoji in body content are almost never appropriate outside deliberately informal channels and are a common giveaway."
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Emphasis and formatting"
+  principle: UR-0006

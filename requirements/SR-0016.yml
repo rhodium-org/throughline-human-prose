@@ -1,0 +1,11 @@
+uid: SR-0016
+type: system_requirement
+status: approved
+title: "Write headings in sentence case"
+text: "Capitalise only the first word and any proper nouns in a heading. Do not Title-Case Every Main Word, which is a habit of chatbot output rather than of running editorial prose."
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Emphasis and formatting"
+  principle: UR-0006

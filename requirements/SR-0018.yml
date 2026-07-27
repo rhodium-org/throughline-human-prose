@@ -1,0 +1,11 @@
+uid: SR-0018
+type: system_requirement
+status: approved
+title: "Do not turn prose into bold-header bullet lists"
+text: "Avoid the vertical list where each item is a bold inline header, a colon, then a sentence, when the material reads better as prose. Reserve lists for genuinely list-like content, and prefer running sentences where the relationships between points matter."
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Emphasis and formatting"
+  principle: UR-0006

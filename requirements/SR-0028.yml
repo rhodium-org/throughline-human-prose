@@ -1,0 +1,11 @@
+uid: SR-0028
+type: system_requirement
+status: approved
+title: "Cite only sources you have verified exist and support the claim"
+text: "Check every reference before it goes in. Do not cite fabricated or unread sources, dead links that were never archived, invalid DOIs or ISBNs, or a real DOI that resolves to an unrelated article. A cluster of broken or mismatched citations is a strong sign of unchecked generated text."
+links:
+- target: UR-0008
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Citations"
+  principle: UR-0008

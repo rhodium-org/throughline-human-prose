@@ -1,0 +1,11 @@
+uid: SR-0024
+type: system_requirement
+status: approved
+title: "Leave no tool or citation markup artifacts in the text"
+text: "Never ship the internal markup that chatbots emit — oaicite, contentReference, turn0search, [cite: 1], (start_span), grok_card, lenticular-bracket citations, a utm_source=chatgpt.com tracking parameter, or a fenced wikitext block. Their presence proves the text was pasted unread from a chatbot."
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: "TBS Human prose — Artifacts and framing"
+  principle: UR-0007
