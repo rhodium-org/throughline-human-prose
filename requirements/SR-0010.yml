@@ -1,11 +1,14 @@
 uid: SR-0010
 type: system_requirement
-status: approved
-title: "Avoid corrective negative parallelisms"
-text: "Do not frame statements as corrections of an assumed misconception — \"not just X, but Y\", \"it is not..., it is...\", \"X rather than Y\" — unless a source is genuinely correcting one. Used for rhythm, these constructions are a strong tell."
+status: proposed
+title: Avoid corrective negative parallelisms
+text: Do not frame statements as corrections of an assumed misconception — "not just
+  X, but Y", "it is not..., it is...", "X rather than Y" — unless a source is genuinely
+  correcting one. Used for rhythm, these constructions are a strong tell.
+normative: true
 links:
 - target: UR-0004
   type: implements
 attrs:
-  source_ref: "TBS Human prose — Sentence patterns"
+  source_ref: TBS Human prose — Sentence patterns
   principle: UR-0004

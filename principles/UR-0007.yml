@@ -1,10 +1,13 @@
 uid: UR-0007
 type: user_requirement
-status: approved
-title: "Leave no machine, draft or conversational artifacts in the text"
-text: "The finished piece addresses its reader, not a chatbot's operator: strip assistant-to-user framing, knowledge-cutoff and availability disclaimers, tool and citation markup, unfilled placeholders and restated summaries."
+status: proposed
+title: Leave no machine, draft or conversational artifacts in the text
+text: 'The finished piece addresses its reader, not a chatbot''s operator: strip
+  assistant-to-user framing, knowledge-cutoff and availability disclaimers, tool
+  and citation markup, unfilled placeholders and restated summaries.'
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "TBS Human prose — Artifacts and framing"
+  source_ref: TBS Human prose — Artifacts and framing

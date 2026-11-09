@@ -1,10 +1,13 @@
 uid: UR-0008
 type: user_requirement
-status: approved
-title: "Cite only real, verifiable, specific sources"
-text: "Every reference must point to a source that exists, that you have checked, and that supports the claim; give enough locating detail to verify it, and cite nothing you cannot."
+status: proposed
+title: Cite only real, verifiable, specific sources
+text: Every reference must point to a source that exists, that you have checked,
+  and that supports the claim; give enough locating detail to verify it, and cite
+  nothing you cannot.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "TBS Human prose — Citations"
+  source_ref: TBS Human prose — Citations
